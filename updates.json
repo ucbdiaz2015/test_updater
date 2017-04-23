@@ -1,0 +1,8 @@
+{
+  "win32-x64-prod": {
+    "update": "https://github.com/snehag28/test_updater/releases/download/windows",
+    "version": "1.2.0",
+    "platform": "win32",
+    "readme": "Second version"
+  }
+}
