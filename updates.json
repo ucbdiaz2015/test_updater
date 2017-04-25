@@ -1,6 +1,6 @@
 {
   "win32-x64-prod": {
-    "update": "https://raw.githubusercontent.com/snehag28/test_updater/master/release",
+    "update": "https://github.com/snehag28/test_updater/releases/download/test_0.0.2",
     "version": "0.0.2",
     "platform": "win32",
     "readme": "Second version"
