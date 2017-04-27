@@ -1,8 +1,20 @@
 {
+  "linux-x64-prod": {
+    "update": "https://github.com/snehag28/test_updater/releases/download/test-1.1.3-x86_64.AppImage",
+    "version": "1.1.3",
+    "platform": "linux",
+    "readme": "Second version"
+  },
   "win32-x64-prod": {
-    "update": "https://github.com/snehag28/test_updater/releases/download/test_0.0.2",
-    "version": "0.0.2",
+    "update": "https://github.com/snehag28/test_updater/releases/download/release/",
+    "version": "1.1.3",
     "platform": "win32",
     "readme": "Second version"
+  },
+  "darwin-x64-prod": {
+    "readme": "Second Release",
+    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/darwin-x64-prod-v0.0.2/release.json",
+    "install": "https://github.com/megahertz/electron-simple-updater/releases/download/darwin-x64-prod-v0.0.2/Simple.Updater.Example-0.0.2.dmg",
+    "version": "1.1.3"
   }
 }
