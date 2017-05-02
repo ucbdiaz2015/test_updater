@@ -16,5 +16,27 @@
     "update": "https://github.com/snehag28/test_updater/releases/download/0.0.2/release.json",
     "install": "https://github.com/snehag28/test_updater/releases/download/0.0.2/test-0.0.2.dmg",
     "version": "0.0.2"
+  },
+  "docker-images": {
+    "ibm-dsx-ana27": {
+      "size": "3.87 GB",
+      "date": "05-02-2017",
+      "features added": "comma separated list of features"
+    },
+    "ibm-dsx-ana35": {
+      "size": "4.67 GB",
+      "date": "05-02-2017",
+      "features added": "comma separated list of features"
+    },
+    "anaconda_with_spark": {
+      "size": "8.58 GB",
+      "date": "05-02-2017",
+      "features added": "comma separated list of features"
+    },
+    "rstudio-server": {
+      "size": "2.6 GB",
+      "date": "05-02-2017",
+      "features added": "comma separated list of features"
+    }
   }
 }
