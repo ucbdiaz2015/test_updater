@@ -15,7 +15,7 @@
     "readme": "Second Release",
     "update": "https://github.com/snehag28/test_updater/releases/download/0.0.2/release.json",
     "install": "https://github.com/snehag28/test_updater/releases/download/0.0.2/test-0.0.2.dmg",
-    "version": "0.0.2"
+    "version": "1.1.3"
   },
   "docker-images": {
     "Anaconda (Python 2.7)": {
