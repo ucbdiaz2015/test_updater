@@ -21,22 +21,22 @@
     "Anaconda (Python 2.7)": {
       "size": "3.87 GB",
       "date": "05-02-2017",
-      "features added": "comma separated list of features"
+      "readme": "comma separated list of features"
     },
     "Anaconda (Python 3.5)": {
       "size": "4.67 GB",
       "date": "05-02-2017",
-      "features added": "comma separated list of features"
+      "readme": "comma separated list of features"
     },
     "Anaconda + Spark (Python 2.7/3.5, Scala, R)": {
       "size": "8.58 GB",
       "date": "05-02-2017",
-      "features added": "comma separated list of features"
+      "readme": "comma separated list of features"
     },
     "RStudio with Spark": {
       "size": "2.6 GB",
       "date": "05-02-2017",
-      "features added": "comma separated list of features"
+      "readme": "comma separated list of features"
     }
   }
 }
