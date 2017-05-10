@@ -23,7 +23,7 @@
   "notebooks": {
     "Anaconda (Python 2.7)": {
       "size": "3.87",
-      "date": "05-02-2017",
+      "date": "05-02-2017, 11:49:16 AM",
       "readme": "comma separated list of features",
       "name": "ibm-dsx-ana27",
       "version": "v1",
@@ -33,7 +33,7 @@
     },
     "Anaconda (Python 3.5)": {
       "size": "4.67",
-      "date": "05-02-2017",
+      "date": "05-02-2017, 11:49:16 AM",
       "readme": "comma separated list of features",
       "name": "ibm-dsx-ana35",
       "version": "v1",
@@ -43,7 +43,7 @@
     },
     "Anaconda + Spark (Python 2.7/3.5, Scala, R)": {
       "size": "8.58",
-      "date": "05-02-2017",
+      "date": "05-02-2017, 11:49:16 AM",
       "readme": "comma separated list of features",
       "name": "anaconda_with_spark",
       "version": "v1",
@@ -55,7 +55,7 @@
   "servers": {
     "RStudio with Spark": {
       "size": "2.6",
-      "date": "05-02-2017",
+      "date": "05-02-2017, 11:49:16 AM",
       "readme": "comma separated list of features",
       "name": "rstudio-server",
       "version": "v1",
