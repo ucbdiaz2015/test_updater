@@ -1,0 +1,33 @@
+{
+  "paragraphs": [
+    {
+      "user": "anonymous",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1496184070733_-1959829059",
+      "id": "20170530-224110_1823418613",
+      "dateCreated": "May 30, 2017 10:41:10 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "zep 7",
+  "id": "2CKAQTVAJ",
+  "angularObjects": {
+    "2CM8W83CS:shared_process": [],
+    "2CHMQCEQT:shared_process": [],
+    "2CK6UMPMR:shared_process": [],
+    "2CH68MCST:shared_process": [],
+    "2CJ4WV6JJ:shared_process": [],
+    "2CGUHBBUG:shared_process": [],
+    "2CJ9ZEGVY:shared_process": [],
+    "2CJTS16FD:shared_process": [],
+    "2CKRQ5TYA:shared_process": []
+  },
+  "config": {},
+  "info": {}
+}
