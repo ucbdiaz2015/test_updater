@@ -1,24 +1,24 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/ucbdiaz2015/test_updater/releases/download/1.1.4/ibm-dsx-desktop-1.1.4-x86_64.AppImage",
-    "version": "1.1.4",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.6/ibm-dsx-desktop.AppImage",
+    "version": "1.1.6",
     "platform": "linux",
-    "readme": "Fourth version ->  has auto-updater and tar downloads",
-    "size": "69.5 MB"
+    "readme": "Sixth version: implemented uninstaller for individual images (can now uinstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
+    "size": "69.4 MB"
   },
   "win32-x64-prod": {
-    "update": "https://github.com/ucbdiaz2015/test_updater/raw/master/releases/",
-    "version": "1.1.4",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/raw/master/releases/",
+    "version": "1.1.6",
     "platform": "win32",
-    "readme": "Second version",
-    "size": "69.3 MB"
+    "readme": "Sixth version: implemented uninstaller for individual images (can now uinstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
+    "size": "68.6 MB"
   },
   "darwin-x64-prod": {
-    "readme": "Fourth Release",
-    "update": "https://github.com/ucbdiaz2015/test_updater/releases/download/1.1.6/release.json",
-    "install": "https://github.com/ucbdiaz2015/test_updater/releases/download/1.1.6/IBM_DSX_Desktop-1.1.6.dmg",
+    "readme": "Sixth version: implemented uninstaller for individual images (can now uinstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
+    "update": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.6/release.json",
+    "install": "https://github.com/IBMDataScience/DSx-Desktop/releases/download/1.1.6/IBM_DSX_Desktop-1.1.6.dmg",
     "version": "1.1.6",
-    "size": "60 MB"
+    "size": "63.4 MB"
   },
   "notebooks": {
     "Anaconda (Python 2.7)": {
@@ -64,8 +64,20 @@
       "tarSize": "913247879"
     }
   },
+  "zeppelin": {
+    "Zeppelin": {
+      "size": "5.52",
+      "date": "07-13-2017, 10:00:00 AM",
+      "readme": "First version",
+      "name": "zeppelin-server",
+      "version": "latest",
+      "bytes": "GB",
+      "tarName": "zeppelin.tar.gz",
+      "tarSize": "5723820544"
+    }
+  },
   "docker": {
-    "mac_size": "118154629",
+    "mac_size": "118407105",
     "windows_size": "214698696"
   }
 }
