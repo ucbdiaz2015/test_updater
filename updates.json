@@ -69,8 +69,8 @@
       "size": "5.52",
       "date": "07-13-2017, 10:00:00 AM",
       "readme": "First version",
-      "name": "zeppelin-notebook",
-      "version": "v1",
+      "name": "zeppelin",
+      "version": "latest",
       "bytes": "GB",
       "tarName": "zeppelin.tar.gz",
       "tarSize": "5723820544"
