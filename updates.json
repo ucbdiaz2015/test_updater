@@ -72,6 +72,7 @@
       "name": "zeppelin",
       "version": "v1",
       "bytes": "GB",
+      "tarName": "zeppelin.tar.gz",
       "tarSize": "2186188943"
     }
   },
