@@ -14,10 +14,10 @@
     "size": "68.6 MB"
   },
   "darwin-x64-prod": {
-    "readme": "Sixth version: implemented uninstaller for individual images (can now uinstall Notebooks and/or Rstudio without uninstalling entire app); bug fixes ",
+    "readme": "Seventh version: integrated zeppelin notebooks",
     "update": "https://github.com/ucbdiaz2015/test_updater/releases/download/1.1.6/release.json",
     "install": "https://github.com/ucbdiaz2015/test_updater/releases/download/1.1.6/IBM_DSX_Desktop-1.1.6.dmg",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "size": "63.4 MB"
   },
   "notebooks": {
